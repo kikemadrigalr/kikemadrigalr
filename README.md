@@ -3,9 +3,9 @@
 Profesional en el área de informática, apasionado por la tecnología y la música. Cuento con 3 años de experiencia en el desarrollo web. Experiencia en el sector privado a cargo de proyectos internos y para clientes externos.
 ---
 
-> 🎼 Músico - Musician
-🎺Trompetista - Trumpet Player
-💻 Lic. En Informática - Web Developer
+> 🎵 Músico - Musician  
+> 🎺 Trompetista - Trumpet Player  
+> 💻 Lic. En Informática - Web Developer
 
 <!--
 **kikemadrigalr/kikemadrigalr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
