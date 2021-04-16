@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 Profesional en el área de informática, apasionado por la tecnología y la música. Cuento con 3 años de experiencia en el desarrollo web. Experiencia en el sector privado a cargo de proyectos internos y para clientes externos.
+---
 
-🎼 Músico - Musician
+> 🎼 Músico - Musician
 🎺Trompetista - Trumpet Player
 💻 Lic. En Informática - Web Developer
 
