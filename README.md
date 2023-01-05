@@ -4,9 +4,10 @@ Profesional en el área de informática, apasionado por la tecnología y la mús
 
 ---
 
+> 💻 Lic. En Informática - Web Developer
+> .Net Dev
 > 🎵 Músico - Musician  
 > 🎺 Trompetista - Trumpet Player  
-> 💻 Lic. En Informática - Web Developer
 
 ---
 
