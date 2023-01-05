@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Mi nombre es Carlos Madrigal, soy profesional en el área de informática, apasionado por la tecnología y la música. 
-Cuento con 3 años de experiencia en el desarrollo web, Desarrollando principalmente para el Entonrno .NET   
+Cuento con 3 años de experiencia en el desarrollo web, Desarrollando principalmente para el entorno .NET   
 
 Cuento con solidos conocimientos en las diferentes estapas del proceso de desarrollo y las diferentes herramientas y lenguajes necesarios tanto en el Frontend como en el Backend.  
 
