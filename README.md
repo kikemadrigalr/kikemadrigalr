@@ -5,8 +5,7 @@ Profesional en el área de informática, apasionado por la tecnología y la mús
 ---
 
 > 💻 Lic. En Informática - Web Developer  
-> ![image](https://user-images.githubusercontent.com/38573824/210687773-aa7c8953-282c-48a3-a34e-94a3d2608611.png)
-.Net Dev  
+> .Net Dev  
 > 🎵 Músico - Musician    
 > 🎺 Trompetista - Trumpet Player  
 
