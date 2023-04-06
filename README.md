@@ -7,10 +7,25 @@ Cuento con solidos conocimientos en las diferentes estapas del proceso de desarr
 
 ---
 
-> 💻 Lic. En Informática - Web Developer  
-> .Net Dev  
+> 💻 Lic. En Informática
+> 🌐 Web Developer  
+> 🌐 .Net Dev  
 > 🎵 Músico - Musician    
 > 🎺 Trompetista - Trumpet Player  
+> 📍 Venezuela | Colombia
+
+---
+## Stack
+
+> HTML
+> CSS
+> JAVASCRIPT
+> BOOTTRAP
+> .NET
+> C#
+> Entity Framework
+> .SQL Server
+> My Sql
 
 ---
 
