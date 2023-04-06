@@ -7,7 +7,7 @@ Cuento con solidos conocimientos en las diferentes estapas del proceso de desarr
 
 ---
 
-> 💻 Lic. En Informática 
+> 💻 Lic. En Informática  
 > 🌐 Web Developer  
 > 🌐 .Net Dev  
 > 🎵 Músico - Musician    
@@ -17,15 +17,15 @@ Cuento con solidos conocimientos en las diferentes estapas del proceso de desarr
 ---
 ## Stack
 
-> HTML 
-> CSS 
-> Javascript 
-> Bootstrap 
-> .NET 
-> C# 
-> Entity Framework 
-> .SQL Server 
-> My Sql 
+> HTML  
+> CSS  
+> Javascript  
+> Bootstrap  
+> .NET  
+> C#  
+> Entity Framework  
+> .SQL Server  
+> My Sql  
 
 ---
 
