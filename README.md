@@ -56,4 +56,23 @@
 
 ---
 
+## 📫 **Contáctame**  
+📧 **Email**: [carlosmad03@gmail.com](mailto:carlosmad03@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/carlosmad03](https://www.linkedin.com/in/carlosmad03)  
+🖥 **Portafolio**: [tusitio.com](https://tusitio.com)  
+
+<p align="center">
+  <a href="mailto:carlosmad03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/carlosmad03">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tusitio.com">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <h3 align="center">✨ ¡Gracias por visitar mi perfil! ✨</h3>
