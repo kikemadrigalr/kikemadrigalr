@@ -17,11 +17,11 @@
 
 Desarrollador Full Stack especializado en **backend con .NET Core** y **frontend con Angular**. Diseño APIs REST bajo enfoque **API-first / Spec Driven Development**, usando OpenAPI/Swagger como contrato entre equipos, y construyo interfaces modulares sobre design systems reutilizables.
 
-Integro **IA en el ciclo de desarrollo** (Claude Code, Cursor, MCP) para acelerar entregas sin sacrificar calidad. Actualmente construyendo plataformas de trazabilidad clínica y gestión operativa para clientes farmacéuticos.
+Integro **IA en el ciclo de desarrollo** (Claude Code, Cursor, MCP) para acelerar entregas sin sacrificar calidad. Actualmente en [TBTB Global](https://tbtbglobal.com), construyendo plataformas de trazabilidad clínica y gestión operativa para clientes farmacéuticos.
 
-- 🎓 Licenciado en Informática — Universidad de Oriente (UDO).
+- 🎓 Licenciado en Informática — Universidad de Oriente (UDO)
 - 📍 Colombia / Venezuela · disponible para equipos distribuidos en LATAM y EE.UU.
-- 🎺 Trompetista profesional.
+- 🎺 Trompetista profesional en el tiempo libre
 
 ---
 
@@ -80,10 +80,6 @@ Ecosistema modular para la **trazabilidad de muestras médicas**, con automatiza
 Sistema de seguimiento de muestras de pacientes que optimiza el flujo de información entre laboratorios y centros de salud, mejorando tiempos de diagnóstico y tratamiento.
 `.NET Core` `Angular` `SQL Server`
 
-### Integración de IA con APIs internas · TBTB Global
-Implementación de servidores **MCP** para conectar asistentes de IA con APIs de la organización, permitiendo automatizar consultas, generación de documentación y tareas operativas desde Claude Code.
-`MCP` `Claude Code` `.NET` `REST`
-
 ---
 
 ## Repositorios públicos destacados
@@ -92,6 +88,7 @@ Implementación de servidores **MCP** para conectar asistentes de IA con APIs de
 |---|---|---|
 | [ApiDomino](https://github.com/kikemadrigalr/ApiDomino) | API REST completa — prueba técnica resuelta | C# · .NET |
 | [ApiTiendaCore](https://github.com/kikemadrigalr/ApiTiendaCore) | CRUD de productos con EF Core y Swagger | C# · .NET Core |
+| [testing-dotnet](https://github.com/kikemadrigalr/testing-dotnet) | Unit testing en .NET | C# · xUnit |
 | [Usuarios](https://github.com/kikemadrigalr/Usuarios) | Consumo de API externa desde ASP.NET MVC | C# · MVC |
 | [cv_carlos_madrigal](https://github.com/kikemadrigalr/cv_carlos_madrigal) | CV como código con RenderCV (YAML → PDF) | YAML · Typst |
 
@@ -101,7 +98,7 @@ Implementación de servidores **MCP** para conectar asistentes de IA con APIs de
 
 - **API-first**: el contrato OpenAPI se define antes del código; frontend y backend avanzan en paralelo.
 - **Componentes sobre páginas**: design system reutilizable, lazy loading y módulos desacoplados en Angular.
-- **IA como copiloto, no como piloto**: uso Claude Code y Cursor para refactorizar, documentar y depurar; la arquitectura y las decisiones las tomo yo.
+- **IA como copiloto, no como piloto**: uso Claude Code y Cursor a diario para refactorizar, documentar y depurar, y MCP para conectarlos con las APIs internas del proyecto; la arquitectura y las decisiones las tomo yo.
 - **Remoto desde el día uno**: comunicación asíncrona clara, dailys cortas y entregables visibles.
 
 ---
@@ -109,6 +106,7 @@ Implementación de servidores **MCP** para conectar asistentes de IA con APIs de
 ## Contacto
 
 📧 [carlosmad03@gmail.com](mailto:carlosmad03@gmail.com) · 💼 [linkedin.com/in/carlosmad03](https://www.linkedin.com/in/carlosmad03) · 📄 [CV en PDF](https://github.com/kikemadrigalr/cv_carlos_madrigal)
+
 
 ---
 
